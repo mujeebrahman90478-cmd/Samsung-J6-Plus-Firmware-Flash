@@ -12,7 +12,7 @@ Professional firmware restoration using a Poco F3 GT host, OTG, and Eros Engine.
 ---
 
 ## **2. Connection**
-![Hardware Setup otg](InShot_20260402_214303298.jpg) |![micro-usb](InShot_20260402_213659687.jpg)
+![Hardware Setup otg](InShot_20260402_213758176.jpg) |![micro-usb](InShot_20260402_213659687.jpg)
 *OTG and Micro-USB bridge.*
 
 ---
@@ -20,7 +20,7 @@ Professional firmware restoration using a Poco F3 GT host, OTG, and Eros Engine.
 ## **3. Flashing Environment**
 | Recovery Mode | Download Mode |
 |---|---|
-| ![Recovery](InShot_20260402_213758176.jpg) | ![Download](InShot_20260402_214759299.jpg) |
+| ![Recovery](InShot_20260402_214303298.jpg) | ![Download](InShot_20260402_214759299.jpg) |
 
 ---
 
