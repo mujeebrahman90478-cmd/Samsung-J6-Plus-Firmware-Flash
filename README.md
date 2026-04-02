@@ -7,12 +7,12 @@ Professional firmware restoration using a Poco F3 GT host, OTG, and Eros Engine.
 ## **1. Firmware & Extraction**
 | Bifrost Download | Folder Setup | ZArchiver |
 |---|---|---|
-| ![Step 1](1000030918.png) | ![Step 2](1000030930.png) | ![Step 3](1000030975.png) |
+| ![Step 1](Screenshot_2026-04-02-20-51-26-547_tk.zwander.samsungfirmwaredownloader.png) | ![Step 2](Screenshot_2026-04-02-20-54-01-804_com.google.android.documentsui.png) | ![Step 3](InShot_20260402_215909733.jpg) |
 
 ---
 
 ## **2. Connection**
-![Hardware Setup](1000030991.jpg)
+![Hardware Setup otg](InShot_20260402_214303298.jpg) |![micro-usb](InShot_20260402_213659687.jpg)
 *OTG and Micro-USB bridge.*
 
 ---
@@ -20,17 +20,17 @@ Professional firmware restoration using a Poco F3 GT host, OTG, and Eros Engine.
 ## **3. Flashing Environment**
 | Recovery Mode | Download Mode |
 |---|---|
-| ![Recovery](1000030994.jpg) | ![Download](1000030997.jpg) |
+| ![Recovery](InShot_20260402_213758176.jpg) | ![Download](InShot_20260402_214759299.jpg) |
 
 ---
 
 ## **4. Execution (Eros Engine)**
-![Mapping](1000030999.jpg) | ![Flashing](1000031005.jpg)
+![Mapping](InShot_20260402_215114293.jpg) | ![Flashih](InShot_20260402_215158559.jpg)
 ---|---
 
 ---
 
 ## **5. Final Success**
-![Booted](1000031009.jpg)
+![Booted](IMG_20260402_222515.jpg)
 
 **Project by MARZ INDIA**
